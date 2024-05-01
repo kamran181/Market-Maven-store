@@ -34,12 +34,10 @@ const Footer = () => {
     <footer className="bg-white border-t">
       <div className="mx-auto py-6 sm:py-8 md:py-10 lg:py-12">
         <p className="text-center text-xs sm:text-sm text-black">
-          &copy; 2023 Drop ship, Inc. All rights reserved. Made with ❤️{' '}
-          <a href="https://vishwa.vercel.app" target="_blank">
-            <>vishwa.offl</>
-          </a>
+          &copy; 2024 Market Maven, Inc. All rights reserved. Made with ❤️{' '}
+            <>kamran.khan & hafid.malik  ❤️</>
           <span className="ml-2 text-gray-400" title='Loading...'>
-            {views}k+ Views
+           
           </span>
         </p>
       </div>
